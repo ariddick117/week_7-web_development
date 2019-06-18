@@ -12,8 +12,8 @@ Explain brand history and a description of the project, very similar to above
 
 * Describe any prerequisites, libraries, OS version, etc., needed before installing program.
 * ex. Windows 10, CSS3, HTML5
-* Be sure to prefix any bleeding-edge rules, tags, etc. (see caniuse for reference)
-* Also using lastest ES6/next, you should probably think about including Babel for transpilation (or an NPM Script)
+* Be sure to prefix any bleeding-edge rules, tags, etc. (see [caniuse](https://caniuse.com/) for reference)
+* Also using lastest ES6/next, you should probably think about including [Babel](https://babeljs.io/) for transpilation (or an NPM Script)
 
 ### Installing
 
@@ -23,8 +23,8 @@ Explain brand history and a description of the project, very similar to above
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+* Alec Riddick
+[Website](http://www.chroniclesofriddickdesign.com/)
 
 ## License
 
@@ -39,3 +39,5 @@ Inspiration, code snippets, etc.
 * [dbader](https://github.com/dbader/readme-template)
 * [zenorocha](https://gist.github.com/zenorocha/4526327)
 * [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+
+* [README Formatting](https://guides.github.com/features/mastering-markdown/)
