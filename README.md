@@ -1,3 +1,6 @@
+![TRAA Logo](images/traa_logo-MASTER.png)
+Format: ![Alt Text](url)
+
 # This is an In-Class Example of What Trevor Wants README Files to Look Like
 
 This is where you put a small description of what the project is.
